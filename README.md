@@ -1,5 +1,4 @@
-# public-site
-This is the ONLY repository for MineRL's web presence
+# Minerland Root
 
 1) Ask Brandon or Will for WebDev-S3 Credentials
 2) Configure AWS CLI
