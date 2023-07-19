@@ -1,4 +1,4 @@
-# Minerland Root
+#  Minerland Root
 
 1) Ask Brandon or Will for WebDev-S3 Credentials
 2) Configure AWS CLI
