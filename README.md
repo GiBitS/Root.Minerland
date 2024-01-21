@@ -1,5 +1,6 @@
-# public-site
+# Root.Minerland
 
+## public-site
 Jenkins repository for building and updating the [minerl.io](https://minerl.io) website.
 
 ## Local testing
